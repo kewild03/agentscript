@@ -1,2 +1,2 @@
 # agentscript
-repository for all our scripts
+This repository is store bash shell script.
